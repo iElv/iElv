@@ -1,5 +1,5 @@
 - 👋 Hey, I’m @iElv
-- 🧠 I’m interested in machine learning.
+- 🧠 I’m interested in data science, i think?
 - 🐍 I’m currently learning Python.
 - **I’m not interested in any collab for now.**
 - 📫 How to reach me: ~~Elvin#8869 (Discord)~~
