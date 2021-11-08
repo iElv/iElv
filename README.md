@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @iElv
-- 🧠 I’m interested in data science, i think?
-- 🐍 I’m currently learning Python.
+- 🧠 I’m interested in... I don't know.
+- 🐍 I’m currently learning several programming language basics.
 - **I’m not interested in any collab for now.**
 - 📫 How to reach me: ~~Elvin#8869 (Discord)~~
 
